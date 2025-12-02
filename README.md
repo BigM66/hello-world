@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+My name is Matthew Parsley. I have a Bachelor of Arts and Science degree in Computer Science from Bellarmine University. I graduated in May of 2025. I have lived in Lousiville Kentucky my entire life and enjoy many things in life such as hanging with my friends, learning about new technology, and of course my favorite past time activity is watching sports!
